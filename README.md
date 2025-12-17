@@ -1,0 +1,1 @@
+# sers-predloga-za-seminarske-typst
