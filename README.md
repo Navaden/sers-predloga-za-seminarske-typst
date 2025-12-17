@@ -1,3 +1,5 @@
+<img width="900" height="300" alt="rect8" src="https://github.com/user-attachments/assets/58c26df8-0084-44fe-b2da-09afcbf4666b" />
+
 # sers-predloga-za-seminarske-typst
 
 ## Kaj vsebuje ta predloga
