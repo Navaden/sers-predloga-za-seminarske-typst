@@ -1,6 +1,7 @@
+<center>
 <img width="900" height="300" alt="rect8" src="https://github.com/user-attachments/assets/58c26df8-0084-44fe-b2da-09afcbf4666b" />
-
 <img src="https://img.shields.io/badge/Typst-b6e3e6?style=for-the-badge&logo=typst">
+</center>
 
 # sers-predloga-za-seminarske-typst
 
