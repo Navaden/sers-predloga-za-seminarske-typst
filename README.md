@@ -22,6 +22,12 @@ napiši kaj vse je noter, Matic iz prihodnosti :)
 ## Kako uporabljati
 Najboljše deluje, ko imaš typst nastavljen na "watch" način in končno datoteko odprto v pdf viewerju tvoje izbire (takem, ki lahko v živo posodablja spremembe datoteke).
 
+## To do
+- naredi boljši readme
+- popravi velikosti in širino naslovov
+- nastavi decimalno ločilo na vejico
+- najdi več lokalnih slovenskih posebnosti za uveljaviti
+
 ## Credits
 sers logo iz sers spletne strani
 primer slike iz picsum
