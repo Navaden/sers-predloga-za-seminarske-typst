@@ -1,6 +1,5 @@
 // SERŠ Predloga za seminarske naloge
 // by Matic Tement
-// spomni se ustrezno nastaviti širino in velikost naslovov in podnaslovov, Matic iz prihodnosti
 
 // Nastavitve papirja, ne spreminjaj
 #set page(
