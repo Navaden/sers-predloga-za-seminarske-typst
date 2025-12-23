@@ -7,6 +7,8 @@
 
 # sers-predloga-za-seminarske-typst
 
+**Note: Ta repo in njegova vsebina nista nikakor povezana z SERŠ-em.**
+
 ## Kaj vsebuje ta predloga
 napiši kaj vse je noter, Matic iz prihodnosti :)
 
