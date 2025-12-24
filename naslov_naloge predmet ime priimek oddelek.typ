@@ -136,7 +136,7 @@ Pomišljaji bi naj delali enostavno -- z dvema minusoma. Lahko tudi s tremi --- 
 
 // Oštevilčen seznam, znak za označevanje se da spremeniti
 + oštevilčeni seznami
-+ z
++ s
 + plusi
 
 = Primer slike
