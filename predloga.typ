@@ -153,6 +153,6 @@ Pomišljaji bi naj delali enostavno -- z dvema minusoma. Lahko tudi s tremi --- 
 == Elektronski
 === Besedilni
 - Začetnica imena avtorja. Priimek avtorja. Naslov. Podnaslov. [citirano: 00.00.0000]. Dostopno na povezavi: #link("https://www.example.com") // Ustrezen format navajanja virov
-== Tiskani
 === Slikovni
 - Slika 1: Lorem Picsum. Izvod: 1055. [preneseno: 00.00.0000]. Dostopno na povezavi: #link("https://picsum.photos/") // (ročno) številčenje slik po kazalu
+== Tiskani
