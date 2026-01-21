@@ -28,7 +28,9 @@ Najboljše deluje, ko imaš typst nastavljen na "watch" način in končno datote
 - naredi boljši readme
 - popravi velikosti in širino naslovov
 - nastavi decimalno ločilo na vejico
-- najdi več lokalnih slovenskih posebnosti za uveljaviti
+- najdi več lokalnih slovenskih posebnosti za uveljaviti (npr. odstravnitev zamika prve vrstice, vejica kot decimalno ločilo)
+- nastavi ustrezen odmik od robov strani
+- dodaj primer tabele
 
 ## Credits
 sers logo iz sers spletne strani
